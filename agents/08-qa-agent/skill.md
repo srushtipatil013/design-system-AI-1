@@ -1,0 +1,1 @@
+# QA Agent - Variable Integrity, Component Structure, State/Variant, Token Chain Audit

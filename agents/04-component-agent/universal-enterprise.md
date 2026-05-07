@@ -1,0 +1,1 @@
+# Universal Skill - Enterprise Enhancements (Skeleton, Empty/Error, Actions)

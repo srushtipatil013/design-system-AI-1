@@ -1,0 +1,1 @@
+# Skill Template - Standard Skill Structure with HITL Footer

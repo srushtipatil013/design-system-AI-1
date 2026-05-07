@@ -1,0 +1,1 @@
+# Universal Skill - Slot Definition & Boolean Properties
