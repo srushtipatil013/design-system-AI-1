@@ -1,1 +1,1 @@
-# Variable Agent - Complete Token Foundation (Collections, Primitives, Semantics, Scopes, Code Syntax)
+# Variable Agent - Complete Token Foundation (Collections, Primitives, Semantics, Scopes, Code Syntax, Text Styles, Preview Frames)
