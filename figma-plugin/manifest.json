@@ -1,0 +1,7 @@
+{
+  "name": "Button Component Builder",
+  "id": "ds-ai-button-builder",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
